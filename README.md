@@ -1,12 +1,13 @@
-## Welcome to the Heart of the Machine (WIP) webpage
-
-[Our Trello Page](https://trello.com/b/LM2DHkuS)
-
 # Heart of the Machine
+
+![Heart of the Machine Logo](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/Plassein-Machine-Casing-tbg-C4096-256x256.png)
+
 Heart of the Machine is a ModFest 1.16 entry.
 
 Heart of the Machine adds a whole new dimension of abandoned machinery to explore. Maybe you can uncover the secrets of
 this dimension and make use of them somehow.
+
+[Our Trello Page](https://trello.com/b/LM2DHkuS)
 
 ## Getting to the Nectere Dimension
 The Nectere (or Nexus) dimension can be accessed through portals that generate at surface level in the overworld. You
