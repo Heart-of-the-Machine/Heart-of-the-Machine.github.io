@@ -8,6 +8,9 @@ this dimension and make use of them somehow.
 
 [Our Trello Page](https://trello.com/b/LM2DHkuS)
 
+## Screenshots
+![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-06-25_07.27.28.png)
+
 ## Getting to the Nectere Dimension
 The Nectere (or Nexus) dimension can be accessed through portals that generate at surface level in the overworld. You
 can locate them using the `/locate nectere_portal` command. Beware, the Nectere dimension has some pretty wacky terrain
@@ -40,9 +43,6 @@ Some concrete goals we have for Heart of the Machine are:
  * We plan to have portals that connect the Nectere dimension to dimensions other than just the overworld.
 
 We have other plans for Heart of the Machine, but those plans are less concrete.
-
-## Screenshots
-![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-06-25_07.27.28.png)
 
 ## License
 Heart of the Machine is licensed under the MIT license.
