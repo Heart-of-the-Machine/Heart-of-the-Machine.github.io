@@ -41,6 +41,9 @@ Some concrete goals we have for Heart of the Machine are:
 
 We have other plans for Heart of the Machine, but those plans are less concrete.
 
+## Screenshots
+![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-06-25_07.27.28.png)
+
 ## License
 Heart of the Machine is licensed under the MIT license.
 
