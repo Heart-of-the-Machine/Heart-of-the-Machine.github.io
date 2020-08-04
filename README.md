@@ -1,12 +1,24 @@
 ![Heart of the Machine Logo](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/Plassein-Machine-Casing-tbg-C4096-256x256.png)
 
 # Heart of the Machine
+
+[![Github Image]][Github] [![Trello Image]][Trello] [![Travis Status]][Travis] [![Discord Status]][Discord] [![CurseForge Status]][CurseForge]
+
+[Github Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/GitHub-Mark-20px.png
+[Github]: https://github.com/Heart-of-the-Machine/heart-of-the-machine
+[Trello Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/trello-mark-blue-20px.png
+[Trello]: https://trello.com/b/LM2DHkuS
+[Travis Status]: https://img.shields.io/travis/Heart-of-the-Machine/heart-of-the-machine/master?logo=travis&style=flat-square
+[Travis]: https://travis-ci.org/Heart-of-the-Machine/heart-of-the-machine
+[Discord Status]: https://img.shields.io/discord/720635296131055697?logo=discord&logoColor=white&style=flat-square
+[Discord]: https://discord.gg/hU4us4D
+[CurseForge Status]: http://cf.way2muchnoise.eu/391897.svg?badge_style=flat
+[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/heart-of-the-machine
+
 Heart of the Machine is a ModFest 1.16 entry.
 
 Heart of the Machine adds a whole new dimension of abandoned machinery to explore. Maybe you can uncover the secrets of
 this dimension and make use of them somehow.
-
-[Our Trello Page](https://trello.com/b/LM2DHkuS)
 
 ## Screenshots
 ![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-06-25_07.27.28.png)
