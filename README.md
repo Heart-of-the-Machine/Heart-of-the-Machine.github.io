@@ -21,7 +21,7 @@ Heart of the Machine adds a whole new dimension of abandoned machinery to explor
 this dimension and make use of them somehow.
 
 ## Screenshots
-![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-06-25_07.27.28.png)
+![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-09-20_12.12.07.png)
 
 ## Getting to the Nectere Dimension
 The Nectere (or Nexus) dimension can be accessed through portals that generate at surface level in the overworld. You
