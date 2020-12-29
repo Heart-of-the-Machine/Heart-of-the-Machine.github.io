@@ -2,12 +2,14 @@
 
 # Heart of the Machine
 
-[![Github Image]][Github] [![Trello Image]][Trello] [![Github Workflow Status]][Github Workflow] [![Discord Status]][Discord] [![CurseForge Status]][CurseForge]
+[![Github Image]][Github] [![Trello Image]][Trello] [![Modrinth Image]][Modrinth] [![Github Workflow Status]][Github Workflow] [![Discord Status]][Discord] [![CurseForge Status]][CurseForge]
 
 [Github Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/GitHub-Mark-20px.png
 [Github]: https://github.com/Heart-of-the-Machine/heart-of-the-machine
 [Trello Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/trello-mark-blue-20px.png
 [Trello]: https://trello.com/b/LM2DHkuS
+[Modrinth Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/modrinth-mark-20px.png
+[Modrinth]: https://modrinth.com/mod/heart-of-the-machine
 [Github Workflow Status]: https://img.shields.io/github/workflow/status/Heart-of-the-Machine/heart-of-the-machine/build?logo=github&style=flat-square
 [Github Workflow]: https://github.com/Heart-of-the-Machine/heart-of-the-machine/actions?query=workflow%3Abuild
 [Discord Status]: https://img.shields.io/discord/720635296131055697?logo=discord&logoColor=white&style=flat-square
