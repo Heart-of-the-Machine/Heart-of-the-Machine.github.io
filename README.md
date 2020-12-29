@@ -2,14 +2,14 @@
 
 # Heart of the Machine
 
-[![Github Image]][Github] [![Trello Image]][Trello] [![Travis Status]][Travis] [![Discord Status]][Discord] [![CurseForge Status]][CurseForge]
+[![Github Image]][Github] [![Trello Image]][Trello] [![Github Workflow Status]][Github Workflow] [![Discord Status]][Discord] [![CurseForge Status]][CurseForge]
 
 [Github Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/GitHub-Mark-20px.png
 [Github]: https://github.com/Heart-of-the-Machine/heart-of-the-machine
 [Trello Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/trello-mark-blue-20px.png
 [Trello]: https://trello.com/b/LM2DHkuS
-[Travis Status]: https://img.shields.io/travis/Heart-of-the-Machine/heart-of-the-machine/master?logo=travis&style=flat-square
-[Travis]: https://travis-ci.org/Heart-of-the-Machine/heart-of-the-machine
+[Github Workflow Status]: https://img.shields.io/github/workflow/status/Heart-of-the-Machine/heart-of-the-machine/build?logo=github&style=flat-square
+[Github Workflow]: https://github.com/Heart-of-the-Machine/heart-of-the-machine/actions?query=workflow%3Abuild
 [Discord Status]: https://img.shields.io/discord/720635296131055697?logo=discord&logoColor=white&style=flat-square
 [Discord]: https://discord.gg/hU4us4D
 [CurseForge Status]: https://cf.way2muchnoise.eu/391897.svg?badge_style=flat
