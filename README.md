@@ -1,21 +1,13 @@
-![Heart of the Machine Logo](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/Plassein-Machine-Casing-tbg-C4096-256x256.png)
-
-# Heart of the Machine
-
-[![Github Image]][Github] [![Trello Image]][Trello] [![Github Workflow Status]][Github Workflow] [![Discord Status]][Discord] [![Modrinth Status]][Modrinth] [![CurseForge Status]][CurseForge]
-
-[Github Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/GitHub-Mark-20px.png
-[Github]: https://github.com/Heart-of-the-Machine/heart-of-the-machine
-[Trello Image]: https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/icons/trello-mark-blue-20px.png
-[Trello]: https://trello.com/b/LM2DHkuS
-[Github Workflow Status]: https://img.shields.io/github/actions/workflow/status/Heart-of-the-Machine/heart-of-the-machine/build.yml?branch=wip%2Frewrite&logo=github&style=flat-square
-[Github Workflow]: https://github.com/Heart-of-the-Machine/heart-of-the-machine/actions?query=workflow%3Abuild
-[Discord Status]: https://img.shields.io/discord/720635296131055697?logo=discord&logoColor=white&style=flat-square
-[Discord]: https://discord.gg/hU4us4D
-[Modrinth Status]: https://img.shields.io/modrinth/dt/7vleuAJ9?logo=modrinth&style=flat-square
-[Modrinth]: https://modrinth.com/mod/heart-of-the-machine
-[CurseForge Status]: https://cf.way2muchnoise.eu/391897.svg?badge_style=flat
-[CurseForge]: https://www.curseforge.com/minecraft/mc-mods/heart-of-the-machine
+<center>
+<p align="center"><img src="https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/Plassein-Machine-Casing-tbg-C4096-256x256.png" alt="Logo"></p>
+<h1 align="center">Heart of the Machine</h1>
+<p align="center">
+<a href="https://github.com/Heart-of-the-Machine/heart-of-the-machine"><img src="https://img.shields.io/github/actions/workflow/status/Heart-of-the-Machine/heart-of-the-machine/build.yml?branch=wip%2Frewrite&logo=github&style=flat-square" alt="GitHub"></a>
+<a href="https://discord.gg/hU4us4D"><img src="https://img.shields.io/discord/720635296131055697?logo=discord&logoColor=white&style=flat-square" alt="Discord"></a>
+<a href="https://modrinth.com/mod/heart-of-the-machine"><img src="https://img.shields.io/modrinth/dt/7vleuAJ9?logo=modrinth&style=flat-square" alt="Modrinth"></a>
+<a href="https://www.curseforge.com/minecraft/mc-mods/heart-of-the-machine"><img src="https://cf.way2muchnoise.eu/391897.svg?badge_style=flat" alt="CurseForge"></a>
+</p>
+</center>
 
 Heart of the Machine is a ModFest 1.16 entry.
 
@@ -23,6 +15,9 @@ Heart of the Machine adds a whole new dimension of abandoned machinery to explor
 this dimension and make use of them somehow.
 
 ## Screenshots
+
+Here is a screenshot of a previous version of Heart of the Machine while the rewrite is in progress:
+
 ![Heart of the Machine screenshot](https://raw.githubusercontent.com/Heart-of-the-Machine/Heart-of-the-Machine.github.io/master/screenshots/2020-09-20_12.12.07.png)
 
 ## Getting to the Nectere Dimension
